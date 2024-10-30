@@ -180,6 +180,7 @@ Total laba adalah: 19000000.0
 ```
 ## Berikut adalah hasin screenshot vsc
 
+![image](https://github.com/user-attachments/assets/378fce92-cbb6-4f9c-b397-f89d5904b65c)
 
 
 # LATIHAN 3.latihan3.py
