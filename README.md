@@ -84,7 +84,7 @@ data ke: 5 => 0.4108541420749856
 Selesai
 ```
 
-## Berikut adalah hasin screenshot vsc
+## Berikut adalah hasil screenshot vsc
 
 ![image](https://github.com/user-attachments/assets/2fe8818f-6f9c-4fc4-b136-344249ad9312)
 
@@ -179,7 +179,7 @@ laba bulan ke- 7 sebesar: 5000000.0
 laba bulan ke- 8 sebesar: 3000000.0
 Total laba adalah: 20000000.0
 ```
-## Berikut adalah hasin screenshot vsc
+## Berikut adalah hasil screenshot vsc
 
 ![image](https://github.com/user-attachments/assets/378fce92-cbb6-4f9c-b397-f89d5904b65c)
 
