@@ -176,7 +176,7 @@ laba bulan ke- 5 sebesar: 5000000.0
 laba bulan ke- 6 sebesar: 5000000.0
 laba bulan ke- 7 sebesar: 5000000.0
 laba bulan ke- 8 sebesar: 3000000.0
-Total laba adalah: 19000000.0
+Total laba adalah: 20000000.0
 ```
 ## Berikut adalah hasin screenshot vsc
 
