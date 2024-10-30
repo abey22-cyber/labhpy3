@@ -86,6 +86,7 @@ Selesai
 
 ## Berikut adalah hasin screenshot vsc
 
+![image](https://github.com/user-attachments/assets/d15f5202-0cd3-4b05-8537-cc538cd8e83c)
 
 
 ## Penjelasan Kode
