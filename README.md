@@ -76,17 +76,18 @@ Jika pengguna memasukkan nilai `N = 5`, maka output yang dihasilkan mungkin terl
 
 ```python
 Masukkan nilai N: 5
-data ke: 1 => 0.3729648189127943
-data ke: 2 => 0.12069084128885188
-data ke: 3 => 0.12486530658774031
-data ke: 4 => 0.4755389441515395
-data ke: 5 => 0.4919317309126129
+data ke: 1 => 0.20541613066995523
+data ke: 2 => 0.4972554536964754 
+data ke: 3 => 0.07426528877224481
+data ke: 4 => 0.3748995759777928 
+data ke: 5 => 0.4108541420749856 
 Selesai
 ```
 
 ## Berikut adalah hasin screenshot vsc
 
-![image](https://github.com/user-attachments/assets/d15f5202-0cd3-4b05-8537-cc538cd8e83c)
+![image](https://github.com/user-attachments/assets/2fe8818f-6f9c-4fc4-b136-344249ad9312)
+
 
 
 ## Penjelasan Kode
