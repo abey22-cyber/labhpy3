@@ -246,17 +246,23 @@ Saldo saat ini: Rp 1000000
 1. Tarik Uang
 2. Keluar
 Pilih menu (1/2): 1
-Masukkan jumlah penarikan: 500000
+Masukkan jumlah penarikan: 300000
 Penarikan berhasil!
 ```
-Saldo saat ini: Rp 500000
+Saldo saat ini: Rp 700000
 1. Tarik Uang
 2. Keluar
 Pilih menu (1/2): 2
 Terima kasih telah menggunakan ATM!
-```
+
 - Pada contoh ini:
    Pengguna memilih opsi "Tarik Uang" dan memasukkan jumlah penarikan Rp 500.000. Program berhasil melakukan penarikan dan mengurangi saldo.
    Pengguna kemudian memilih opsi "Keluar" untuk mengakhiri program.
 
-## Berikut adalah hasin screenshot vsc
+## berikut hasil screenshoot programnya
+![image](https://github.com/user-attachments/assets/bd7a115f-4973-4160-a22e-6b0ce19d722b)
+
+
+## dan berikut hasil eksekusinya
+![image](https://github.com/user-attachments/assets/1f687ffb-b4e1-468f-a524-7c96f30f0ff2)
+
